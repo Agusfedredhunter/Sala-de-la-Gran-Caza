@@ -1,3 +1,5 @@
+TRABAJO PRACTICO 3
+
 1A: Tiempo de procesamiento de SINHILOS.PY: 5.63 segundos, 5.62 segundos, 5.52 segundos 
 Tiempo de procesamiento de CONHILOS.PY: 4.43 segundos, 4.42 segundos, 4.53 segundos, 4.43 segundos 
 
@@ -30,3 +32,14 @@ SIN EL #
 10)	0.285
 
 Lo que paso fue que, con los comentarios, al inicio el programa tardaba un poco más en correr hasta que después llego hasta el rango de 200 milisegundos. Pero después de descomentar el programa, el procesamiento del programa no subió a más de 385 milisegundos por lo que se puede decir que se aceleró un poco. 
+
+
+ACTIVIDAD 2
+
+2B) 
+
+
+
+
+
+
