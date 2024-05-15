@@ -36,7 +36,8 @@ Lo que paso fue que, con los comentarios, al inicio el programa tardaba un poco 
 
 ACTIVIDAD 2
 
-2B) 
+2B) ![Captura de pantalla 2024-05-14 231922](https://github.com/Agusfedredhunter/Sala-de-la-Gran-Caza/assets/167997966/3cd68b00-8925-447a-b805-2a548ea069c7)
+
 
 
 
