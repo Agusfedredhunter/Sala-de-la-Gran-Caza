@@ -33,18 +33,19 @@ Lo que paso fue que, con los comentarios, al inicio el programa tardaba un poco 
 
 ACT 2
 
-2A) #include <pthread.h>
-#include <stdio.h>
-#include <stdlib.h>
-#define NUMBER_OF_THREADS 2
-#define CANTIDAD_INICIAL_HAMBURGUESAS 20
-int cantidad_restante_hamburguesas = CANTIDAD_INICIAL_HAMBURGUESAS;
-int turno = 0;
+2A) 
+	#include <pthread.h>
+	#include <stdio.h>
+	#include <stdlib.h>
+	#define NUMBER_OF_THREADS 2
+	#define CANTIDAD_INICIAL_HAMBURGUESAS 20
+		int cantidad_restante_hamburguesas = CANTIDAD_INICIAL_HAMBURGUESAS;
+	int turno = 0;
 
-while(turno!=(int)tid);
+	while(turno!=(int)tid);
 
-void *comer_hamburguesa(void *tid)
-{
+	void *comer_hamburguesa(void *tid)
+	{
 	while (1 == 1) 
 	{ 
 		
@@ -64,7 +65,7 @@ void *comer_hamburguesa(void *tid)
     // SALIDA DE LA ZONA CRÍTICA   
 
 	}
-}
+	}
 
 int main(int argc, char *argv[])
 {
